@@ -18,7 +18,7 @@ if (lovesCode === true){
 //CODE HERE
 
 // For problems 2-3 use the following lines of code:
-Var amysAge = 29
+var amysAge = 29
 var brittanisAge = 34
 var amysBirthYear = 1991
 var brittanisBirthYear = 1986
@@ -181,10 +181,10 @@ while(score < passingScore){
 
 var changeMyMind = true
 
-if (changeMyMind = true){
-    changeMyMind != changeMyMind;
-} else if (changeMyMind = false) {
-    changeMyMind != changeMyMind
+if (changeMyMind === true){
+    changeMyMind !== changeMyMind;
+} else (changeMyMind === false) {
+    changeMyMind !== changeMyMind
 }
 console.log(changeMyMind)
 ////////// PROBLEM 10 //////////
